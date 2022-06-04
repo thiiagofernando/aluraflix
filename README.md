@@ -1,5 +1,5 @@
 # AluraFlix
-IMERSÃO REACT Criando o Projeto ALURAFLIX
+## _IMERSÃO REACT Criando o Projeto ALURAFLIX
 
 Conteúdo detalhado
     - Iniciaremos um projeto com Create React App (CRA);
